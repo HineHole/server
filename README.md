@@ -20,6 +20,6 @@ console.log("test")
 -
 
 |   c|   b|   a|
-|  c|  b|  a|
+|----|----|----|
 | c| b| a|
 |c |b |a |
